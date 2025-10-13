@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "PROD VERSION Welcome to my accounts related API"
+  contactDetails:
+    name: "Thomas Cherian PROD"
+    email: "thomas.cherian1523@gmail.com"
+  onCallSupport:
+    - 9673707280
+    - 9881191019

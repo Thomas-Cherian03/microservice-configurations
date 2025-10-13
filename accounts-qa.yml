@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "QA VERISON Welcome to my accounts related API"
+  contactDetails:
+    name: "Thomas Cherian QA"
+    email: "thomas.cherian1523@gmail.com"
+  onCallSupport:
+    - 9673707280
+    - 9881191019
