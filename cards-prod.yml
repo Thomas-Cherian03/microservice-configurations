@@ -5,7 +5,7 @@ cards:
   message: "Welcome to  cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "d99d8ba1a9173110572aee9e5fc7147f3caebb4a109f20471cc3d55c49e3feba26bff81c0a0703f7967cf54e4e7b1778"
+    email: "{cipher}d99d8ba1a9173110572aee9e5fc7147f3caebb4a109f20471cc3d55c49e3feba26bff81c0a0703f7967cf54e4e7b1778"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
