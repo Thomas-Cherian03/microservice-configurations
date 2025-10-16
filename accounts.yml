@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to my accounts related API"
+  message: "Welcome to my accounts related API WITH DOCKER"
   contactDetails:
     name: "Thomas Cherian"
     email: "thomas.cherian1523@gmail.com"
